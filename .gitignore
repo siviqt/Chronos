@@ -1,0 +1,11 @@
+/build/
+/managed_components/
+/sdkconfig
+/sdkconfig.old
+/sdkconfig_tanmatsu
+/sdkconfig_tanmatsu.old
+/.IDF_PATH
+/.IDF_TOOLS_PATH
+/.agents/
+/.codex/
+__pycache__/

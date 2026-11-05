@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.22)
+file(READ "${CMAKE_CURRENT_LIST_DIR}/assets/icons/metadata.json" chronos_metadata)
+string(JSON PROJECT_VER GET "${chronos_metadata}" version)
+include($ENV{IDF_PATH}/tools/cmake/project.cmake)
+project(chronos)
+set_property(DIRECTORY APPEND PROPERTY CMAKE_CONFIGURE_DEPENDS
+    "${CMAKE_SOURCE_DIR}/assets/icons/metadata.json")
+if(CONFIG_BSP_TARGET_TANMATSU)
+    include(cmake/BspCompatibility.cmake)
+endif()

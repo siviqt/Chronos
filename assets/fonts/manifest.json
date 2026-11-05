@@ -1,0 +1,156 @@
+{
+  "fonts": [
+    {
+      "file": "ibm_plex_sans_regular_12.c",
+      "source": "IBMPlexSans-Regular.ttf",
+      "weight": 400,
+      "size": 12,
+      "bpp": 4,
+      "glyphs": 95,
+      "bitmap_bytes": 2660,
+      "line_height": 17,
+      "baseline": 13,
+      "coverage": "ascii"
+    },
+    {
+      "file": "ibm_plex_sans_regular_14.c",
+      "source": "IBMPlexSans-Regular.ttf",
+      "weight": 400,
+      "size": 14,
+      "bpp": 4,
+      "glyphs": 727,
+      "bitmap_bytes": 32089,
+      "line_height": 23,
+      "baseline": 18,
+      "coverage": "ui"
+    },
+    {
+      "file": "ibm_plex_sans_regular_16.c",
+      "source": "IBMPlexSans-Regular.ttf",
+      "weight": 400,
+      "size": 16,
+      "bpp": 4,
+      "glyphs": 727,
+      "bitmap_bytes": 41524,
+      "line_height": 26,
+      "baseline": 20,
+      "coverage": "ui"
+    },
+    {
+      "file": "ibm_plex_sans_medium_16.c",
+      "source": "IBMPlexSans-Medium.ttf",
+      "weight": 500,
+      "size": 16,
+      "bpp": 4,
+      "glyphs": 95,
+      "bitmap_bytes": 4694,
+      "line_height": 22,
+      "baseline": 17,
+      "coverage": "ascii"
+    },
+    {
+      "file": "ibm_plex_sans_semibold_18.c",
+      "source": "IBMPlexSans-SemiBold.ttf",
+      "weight": 600,
+      "size": 18,
+      "bpp": 4,
+      "glyphs": 95,
+      "bitmap_bytes": 6257,
+      "line_height": 24,
+      "baseline": 19,
+      "coverage": "ascii"
+    },
+    {
+      "file": "ibm_plex_sans_medium_20.c",
+      "source": "IBMPlexSans-Medium.ttf",
+      "weight": 500,
+      "size": 20,
+      "bpp": 4,
+      "glyphs": 95,
+      "bitmap_bytes": 7252,
+      "line_height": 27,
+      "baseline": 21,
+      "coverage": "ascii"
+    },
+    {
+      "file": "ibm_plex_sans_semibold_24.c",
+      "source": "IBMPlexSans-SemiBold.ttf",
+      "weight": 600,
+      "size": 24,
+      "bpp": 4,
+      "glyphs": 95,
+      "bitmap_bytes": 10519,
+      "line_height": 32,
+      "baseline": 25,
+      "coverage": "ascii"
+    },
+    {
+      "file": "ibm_plex_mono_medium_16.c",
+      "source": "IBMPlexMono-Medium.ttf",
+      "weight": 500,
+      "size": 16,
+      "bpp": 4,
+      "glyphs": 16,
+      "bitmap_bytes": 740,
+      "line_height": 22,
+      "baseline": 17,
+      "coverage": " +-.0123456789:%"
+    },
+    {
+      "file": "ibm_plex_mono_medium_24.c",
+      "source": "IBMPlexMono-Medium.ttf",
+      "weight": 500,
+      "size": 24,
+      "bpp": 4,
+      "glyphs": 11,
+      "bitmap_bytes": 1281,
+      "line_height": 32,
+      "baseline": 25,
+      "coverage": "0123456789:"
+    },
+    {
+      "file": "ibm_plex_mono_medium_28.c",
+      "source": "IBMPlexMono-Medium.ttf",
+      "weight": 500,
+      "size": 28,
+      "bpp": 4,
+      "glyphs": 11,
+      "bitmap_bytes": 1935,
+      "line_height": 37,
+      "baseline": 29,
+      "coverage": "0123456789:"
+    },
+    {
+      "file": "ibm_plex_mono_semibold_56.c",
+      "source": "IBMPlexMono-SemiBold.ttf",
+      "weight": 600,
+      "size": 56,
+      "bpp": 4,
+      "glyphs": 12,
+      "bitmap_bytes": 7480,
+      "line_height": 74,
+      "baseline": 58,
+      "coverage": ".0123456789:"
+    },
+    {
+      "file": "ibm_plex_mono_semibold_72.c",
+      "source": "IBMPlexMono-SemiBold.ttf",
+      "weight": 600,
+      "size": 72,
+      "bpp": 4,
+      "glyphs": 12,
+      "bitmap_bytes": 12628,
+      "line_height": 94,
+      "baseline": 74,
+      "coverage": "-0123456789:"
+    }
+  ],
+  "source_sha256": {
+    "IBMPlexMono-Medium.ttf": "98fbd727aae340b236955879dabed4d991aac9e8e90b3b2a67ce4a59221cc97c",
+    "IBMPlexMono-SemiBold.ttf": "f04d7c488ddf7d1fa99f2574efc3406ea4cbe17bb1af3a1ab960f84d0c96a172",
+    "IBMPlexSans-Medium.ttf": "331c8639d7598b2cde62a911a71db195e30cb655cd6bdf2e324a7e984955f907",
+    "IBMPlexSans-Regular.ttf": "975dcda37d80f038dcd143c22e33ca2d97a0cc5a929aace1c749153b0fe1afa5",
+    "IBMPlexSans-SemiBold.ttf": "a20caf8286023a6a7a85e40b1d2a4ae9fc3e3b1f9eda8f4c542dd4986af67bb1",
+    "IBMPlexSansThai-Regular.ttf": "83e1db8e8bad06bb760981f1dd528f5f209d20dfadebac12b21bf2f12453c8c6"
+  }
+}

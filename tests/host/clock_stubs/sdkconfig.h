@@ -1,0 +1,2 @@
+#pragma once
+#define CONFIG_ESP_HOSTED_SDIO_HOST_INTERFACE 1

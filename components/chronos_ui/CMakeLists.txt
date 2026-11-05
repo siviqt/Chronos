@@ -1,0 +1,20 @@
+idf_component_register(
+    SRCS
+    "src/chronos_ui.c"
+    "src/chronos_ui_render.c"
+    "src/chronos_ui_splash.c"
+    "assets/splash.c"
+    "assets/fonts/ibm_plex_mono_medium_16.c"
+    "assets/fonts/ibm_plex_mono_medium_24.c"
+    "assets/fonts/ibm_plex_mono_medium_28.c"
+    "assets/fonts/ibm_plex_mono_semibold_56.c"
+    "assets/fonts/ibm_plex_mono_semibold_72.c"
+    "assets/fonts/ibm_plex_sans_medium_16.c"
+    "assets/fonts/ibm_plex_sans_medium_20.c"
+    "assets/fonts/ibm_plex_sans_regular_12.c"
+    "assets/fonts/ibm_plex_sans_regular_14.c"
+    "assets/fonts/ibm_plex_sans_regular_16.c"
+    "assets/fonts/ibm_plex_sans_semibold_18.c"
+    "assets/fonts/ibm_plex_sans_semibold_24.c"
+    "assets/function_keys.c"
+    INCLUDE_DIRS "include" REQUIRES external_display robotman2412__pax-gfx)
